@@ -4,8 +4,9 @@ Phil Lamplugh's homepage is rather barebones, and thus makes an excellent starte
 
 #### Directions
 
+1. Take a look at [Phil's live website](http://hellophilco.com/).
 1. Look over the files provided. You have at your disposal:
-  - a photo of Phil's animated likeness
+  - the [photo of Phil's animated likeness](images/philco_anime.png)
   - a webfont file
   - a [css stylesheet](stylesheets/style.css) with some starter code to bring in the webfont
   - an [empty html file](index.html).
@@ -16,3 +17,5 @@ o the stylesheet provided.
 1. Use positioning to align the photo and text as it
 
 #### Mockup
+
+![image](images/philco_mockup.png)
